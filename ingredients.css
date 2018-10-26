@@ -65,3 +65,13 @@
   background: #656565;
   border-radius: 20px 20px 200px 200px;
 }
+
+.lettus {
+  height: 35px;
+  width: 65%;
+  background: #0bad5c;
+  border-radius: 15px;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+
